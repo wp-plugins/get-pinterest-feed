@@ -19,8 +19,6 @@ Just write a simple short code, to display the Pinterest-board to your posts.
 2. Activate the plugin through the 'Get Pinterest Feed' menu in WordPress
 3.Write [GetPinFeed url="http://pinterest.com/USER_NAME/BOARD_NAME/rss"] short code where you want to see the Photos.
 
-== Frequently Asked Questions ==
-
 == Screenshots ==
 1.Code written
 2.Looks like this
@@ -44,7 +42,6 @@ First release.
 Use the built-in SimplePie
 SimplePie cache support
 Warning measures
-
 
 == Arbitrary section ==
 
