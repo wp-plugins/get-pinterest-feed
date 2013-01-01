@@ -20,8 +20,9 @@ Just write a simple short code, to display the Pinterest-board to your posts.
 3.Write [GetPinFeed url="http://pinterest.com/USER_NAME/BOARD_NAME/rss"] short code where you want to see the Photos.
 
 == Screenshots ==
-1.Code written
-2.Looks like this
+
+1. Code written
+2. Looks like this
 
 == Changelog ==
 
